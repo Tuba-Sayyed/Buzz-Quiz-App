@@ -1,2 +1,2 @@
 # Buzz-Quiz-App
-In this android application user can create login and create there own profiles to attempt quiz. There daily updates to quizzes and to simplify navigating to different quiz there is functionality of date picker where user can sort quiz according to date. I have used firebase as backend to storage quizzes and authentication of users. 
+This was my first ever Android Application for my university project and also my first time ever working with Kotlin and Android studio. Had a great time learning and designing the logo for this application and few bitter sweet moments with gradle and view binding... still it was an amzing experience to learn and design UI
