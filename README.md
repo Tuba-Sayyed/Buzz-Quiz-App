@@ -1,2 +1,1 @@
-# Buzz-Quiz-App
-This was my first ever Android Application for my university project and also my first time ever working with Kotlin and Android studio. Had a great time learning and designing the logo for this application and few bitter sweet moments with gradle and view binding... still it was an amzing experience to learn and design UI
+For my university project, I developed my first Android application, marking my initial experience with Kotlin and Android Studio. This project provided a valuable learning opportunity, particularly in designing the application’s logo and user interface. Despite encountering some challenges with Gradle and view binding, the overall experience was immensely rewarding and educational.
